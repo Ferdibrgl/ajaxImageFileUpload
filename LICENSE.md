@@ -1,7 +1,4 @@
-Copyright (c) 2011 François Zaninotto
-Portions Copyright (c) 2008 Caius Durling
-Portions Copyright (c) 2008 Adam Royle
-Portions Copyright (c) 2008 Fiona Burrows
+# The MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
